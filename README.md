@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @qTemiO
+- 👀 I’m interested in Python development
+- 🌱 I’m currently learning Scrapy, DRF, Vue.js and more!
+- 📫 How to reach me t.me/@qTemio
